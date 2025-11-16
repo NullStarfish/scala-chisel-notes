@@ -97,12 +97,208 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "examples/FIR gen.md",
+                "file": "类和方法/Seq.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "FIR gen"
+              "title": "Seq"
+            }
+          },
+          {
+            "id": "302ff94db9db1661",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "examples/FIR gen for loop.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "FIR gen for loop"
+            }
+          },
+          {
+            "id": "ade718db22a92344",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "examples/Fir using zip, map, reduce.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Fir using zip, map, reduce"
+            }
+          },
+          {
+            "id": "84c9a39742e5a957",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "examples/Fir using zip, map, reduce.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Fir using zip, map, reduce"
+            }
+          },
+          {
+            "id": "b53c65cd8ee257c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "类和方法/从fill看方法api.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "从fill看方法api"
+            }
+          },
+          {
+            "id": "cd9e9e56124ea652",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "特性/传名参数.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "传名参数"
+            }
+          },
+          {
+            "id": "9f15e9e8809586eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "类和方法/Seq.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Seq"
+            }
+          },
+          {
+            "id": "70b90d1fdd0f1eb5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "类和方法/zip.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "zip"
+            }
+          },
+          {
+            "id": "72c1ac70d82d5196",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "特性/闭包.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "闭包"
+            }
+          },
+          {
+            "id": "4d03bfe3806e5873",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "特性/闭包.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "闭包"
+            }
+          },
+          {
+            "id": "81639f58d8b27b90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "特性/模式匹配scala Match.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "模式匹配scala Match"
+            }
+          },
+          {
+            "id": "311acafab8f4ee82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "特性/传名参数.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "传名参数"
+            }
+          },
+          {
+            "id": "00e91cd4e67c5358",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "examples/Fir using zip, map, reduce.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Fir using zip, map, reduce"
+            }
+          },
+          {
+            "id": "e692d9bf04189bcb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "特性/foreach.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "foreach"
+            }
+          },
+          {
+            "id": "41d924b76977e3f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "特性/sealed.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "sealed"
             }
           },
           {
@@ -134,7 +330,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 20
       }
     ],
     "direction": "vertical"
@@ -284,14 +480,31 @@
   },
   "active": "e6e039ab9cd70f9d",
   "lastOpenFiles": [
-    "从fill看方法api.md",
-    "apply方法：scala的语法糖.md",
-    "Class, Object & trait.md",
-    "Class和伴生对象.md",
-    "Scala和Chisel的区别.md",
-    "RegFile.md",
-    "examples/FIR gen.md",
-    "Seq.md",
+    "类和方法/zip.md",
+    "类和方法/Untitled.md",
+    "examples/Fir using zip, map, reduce.md",
+    "类和方法/map.md",
+    "类和方法/从fill看方法api.md",
+    "特性/Class, Object & trait.md",
+    "examples/RegFile.md",
+    "examples/FIR gen for loop.md",
+    "chisel方法和类/模式匹配chisel.md",
+    "特性/foreach.md",
+    "特性/filter.md",
+    "特性/占位符下划线.md",
+    "特性/传名参数.md",
+    "类和方法/Queue.md",
+    "特性/模式匹配scala Match.md",
+    "chisel方法和类",
+    "特性/sealed.md",
+    "特性/闭包.md",
+    "类和方法/Seq.md",
+    "特性/匿名函数.md",
+    "特性/Class和伴生对象.md",
+    "类和方法/apply方法：scala的语法糖.md",
+    "特性/Scala和Chisel的区别.md",
+    "类和方法",
+    "特性",
     "examples"
   ]
 }
