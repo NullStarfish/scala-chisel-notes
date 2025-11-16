@@ -1,0 +1,297 @@
+{
+  "main": {
+    "id": "691cd09120d7ce15",
+    "type": "split",
+    "children": [
+      {
+        "id": "88b64f76b9ae52d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d6f60a8e5d0b740",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Class, Object & trait.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Class, Object & trait"
+            }
+          },
+          {
+            "id": "74ac9288b7f77161",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "apply方法：scala的语法糖.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "apply方法：scala的语法糖"
+            }
+          },
+          {
+            "id": "8b92e61577495d06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "apply方法：scala的语法糖.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "apply方法：scala的语法糖"
+            }
+          },
+          {
+            "id": "d0d41368f48fa220",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "从fill看方法api.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "从fill看方法api"
+            }
+          },
+          {
+            "id": "77220a7ffb5fb52d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Seq.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Seq"
+            }
+          },
+          {
+            "id": "c19956b5310049e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "examples/FIR gen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "FIR gen"
+            }
+          },
+          {
+            "id": "191aef94eca7a471",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "examples/FIR gen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "FIR gen"
+            }
+          },
+          {
+            "id": "a82e366f5c458867",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Class, Object & trait.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Class, Object & trait"
+            }
+          },
+          {
+            "id": "a93eaa4f7db28b9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Seq.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Seq"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f4b107f43ada6b71",
+    "type": "split",
+    "children": [
+      {
+        "id": "736c691fcb908a80",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e6e039ab9cd70f9d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6ff4b058a2fc857d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6230c9a9f8feef21",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3812a16ae74907ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "e8668f88054cc3a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "59f8d3a14ea6cc52",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "apply方法：scala的语法糖.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for apply方法：scala的语法糖"
+            }
+          },
+          {
+            "id": "0cc5064f24dadc0b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "apply方法：scala的语法糖.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from apply方法：scala的语法糖"
+            }
+          },
+          {
+            "id": "7ade4c5071ac62d5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "27cb0464458dd707",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "apply方法：scala的语法糖.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of apply方法：scala的语法糖"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "e6e039ab9cd70f9d",
+  "lastOpenFiles": [
+    "从fill看方法api.md",
+    "apply方法：scala的语法糖.md",
+    "Class, Object & trait.md",
+    "Class和伴生对象.md",
+    "Scala和Chisel的区别.md",
+    "RegFile.md",
+    "examples/FIR gen.md",
+    "Seq.md",
+    "examples"
+  ]
+}
